@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/la-bakery-app/static/css/main.7a384abb.css",
+    "main.js": "/la-bakery-app/static/js/main.5ba6b38a.js",
+    "static/media/choco-chip.png": "/la-bakery-app/static/media/choco-chip.d52a1ee98b1b0fbd81fe.png",
+    "static/media/happyface.png": "/la-bakery-app/static/media/happyface.f50fa110fb7faaecd257.png",
+    "static/media/choco-cupcake.png": "/la-bakery-app/static/media/choco-cupcake.c2ef3be7086848199ca4.png",
+    "static/media/vanilla-cupcake.png": "/la-bakery-app/static/media/vanilla-cupcake.b1678fb2cae0d964324c.png",
+    "static/media/pinkcookie.png": "/la-bakery-app/static/media/pinkcookie.87486a735df75a2f9075.png",
+    "static/media/whitecookie.png": "/la-bakery-app/static/media/whitecookie.c6c07492175f8941ccb5.png",
+    "static/media/cover1.png": "/la-bakery-app/static/media/cover1.3be0f6bb6833fae07317.png",
+    "static/media/sign.png": "/la-bakery-app/static/media/sign.bcbdd5bf83d6b1f862bf.png",
+    "static/media/miniconcha.png": "/la-bakery-app/static/media/miniconcha.185fcd715c62882e63dc.png",
+    "index.html": "/la-bakery-app/index.html",
+    "main.7a384abb.css.map": "/la-bakery-app/static/css/main.7a384abb.css.map",
+    "main.5ba6b38a.js.map": "/la-bakery-app/static/js/main.5ba6b38a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a384abb.css",
+    "static/js/main.5ba6b38a.js"
+  ]
+}
